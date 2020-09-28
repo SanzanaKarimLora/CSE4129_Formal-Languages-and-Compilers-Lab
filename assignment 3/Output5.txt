@@ -1,0 +1,1 @@
+char id 1 ; int id 2 , id x_2 ; float id 3 , id y2 ; id x1 = 5 ; id x_2 = 10 ; id y1 = 2.5 + id x1 * 45 ; id y2 = 100.o5 - id x_2 / 3 ; if ( id y1 <= id y2 ) id c = ' id y ' ; else id c = ' id n ' ; 
